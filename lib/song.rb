@@ -8,6 +8,5 @@ class Song
 end
 
 playtime = Song.new("Playtime", "Lo-Fi")
-playtime.name
-playtime.genre
+
   
