@@ -11,4 +11,4 @@ end
 mr_beast = Artist.new("Mr. Beast", "Hiiits", "Lo-Fi")
 
 mr_beast.album
-playtime = Song.new("Playtime")
+playtime = Song.new("Playtime", "Lo-Fi")
