@@ -10,4 +10,4 @@ end
 
 playtime = Song.new("Playtime", "The Beast", "Lo-Fi")
 
-  
+playtime.name.artist 
